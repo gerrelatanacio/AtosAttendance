@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19084" started-at="2022-03-16T00:22:15 CST" finished-at="2022-03-16T00:22:34 CST">
+    <groups>
+    </groups>
+    <test name="TimeIn" duration-ms="19084" started-at="2022-03-16T00:22:15 CST" finished-at="2022-03-16T00:22:34 CST">
+      <class name="atosAttendance.Attendance">
+        <test-method status="PASS" signature="timeInAttendance()[pri:0, instance:atosAttendance.Attendance@307f6b8c]" name="timeInAttendance" duration-ms="19024" started-at="2022-03-16T00:22:15 CST" finished-at="2022-03-16T00:22:34 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeInAttendance -->
+      </class> <!-- atosAttendance.Attendance -->
+    </test> <!-- TimeIn -->
+  </suite> <!-- Suite -->
+</testng-results>
